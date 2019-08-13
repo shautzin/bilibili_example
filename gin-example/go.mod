@@ -1,4 +1,4 @@
-module go-redis
+module gin-example
 
 go 1.12
 
