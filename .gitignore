@@ -1,3 +1,6 @@
 **/.idea
 **/.vscode
 **/go.sum
+**/venv
+badapple/extract/depth45p/**
+badapple/extract/frames/**
